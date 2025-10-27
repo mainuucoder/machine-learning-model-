@@ -61,6 +61,6 @@ By ensuring **continuous data updates** and **human oversight**, this project pr
 ## 🎤 **3️⃣ 5-Minute Presentation Outline**
 #link:
 ---
-**web-link:[http://10.212.216.75:8501](https://machine-driven-model.streamlit.app/)
+**web-link:(https://machine-driven-model.streamlit.app/)
 
 
