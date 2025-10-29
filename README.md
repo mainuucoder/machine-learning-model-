@@ -86,9 +86,9 @@ Visualizations show clear groupings, proving the model effectively found pattern
 This AI system is a decision-support tool — not a replacement for public-health professionals.”
 
 💥 Slide 6 — Impact
-
 “By identifying high-risk zones early, authorities can plan preventive actions before outbreaks escalate.
 This approach saves lives ❤️ and promotes sustainable, data-driven healthcare systems 🌱.”
+
 ---
 **web-link:(https://machine-driven-model.streamlit.app/)
 
