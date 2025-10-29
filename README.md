@@ -58,8 +58,37 @@ By ensuring **continuous data updates** and **human oversight**, this project pr
 
 ---
 
-## 🎤 **3️⃣ 5-Minute Presentation Outline**
-#link:
+3️⃣ 5-Minute Presentation Outline
+🖼️ Slide 1 — Title & SDG
+
+“Today, I’ll present an AI model that supports SDG 3: Good Health and Well-Being 🌍
+by predicting disease outbreak risks using K-Means Clustering 🤖.”
+
+⚠️ Slide 2 — Problem
+
+“Diseases like malaria and dengue are influenced by climate and population density.
+Predicting high-risk regions helps allocate healthcare 🏥 more efficiently.”
+
+⚙️ Slide 3 — Methodology
+
+“I used an unsupervised learning approach — K-Means —
+to cluster countries or regions by temperature, rainfall, population, and disease cases.”
+
+📈 Slide 4 — Results
+
+“The model identified four clusters representing different risk levels.
+A silhouette score of 0.55 shows good cluster separation.
+Visualizations show clear groupings, proving the model effectively found patterns related to outbreak risks.”
+
+🧭 Slide 5 — Ethical Reflection
+
+“⚖️ Bias in data reporting can affect results, but using open datasets ensures fairness.
+This AI system is a decision-support tool — not a replacement for public-health professionals.”
+
+💥 Slide 6 — Impact
+
+“By identifying high-risk zones early, authorities can plan preventive actions before outbreaks escalate.
+This approach saves lives ❤️ and promotes sustainable, data-driven healthcare systems 🌱.”
 ---
 **web-link:(https://machine-driven-model.streamlit.app/)
 
